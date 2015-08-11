@@ -4,39 +4,39 @@ refreshFrequency: 300000
 
 render: ->"""
 <li class="button" id="iCloud">
-  <img src="launchers.widgets/folder-launcher.widget/iCloud.png">
+  <img src="folder-launcher.widget/Icons/iCloud.png">
 </li>
 <br>
 <li class="button" id="Computer">
-  <img src="launchers.widgets/folder-launcher.widget/Computer.png">
+  <img src="folder-launcher.widget/Icons/Computer.png">
 </li>
 <br>
 <li class="button" id=Disk>
-  <img src="launchers.widgets/folder-launcher.widget/Disk.png">
+  <img src="folder-launcher.widget/Icons/Disk.png">
 </li>
 <br>
 <li class="button" id="Home">
-  <img src="launchers.widgets/folder-launcher.widget/Home.png">
+  <img src="folder-launcher.widget/Icons/Home.png">
 </li>
 <br>
 <li class="button" id="Library">
-  <img src="launchers.widgets/folder-launcher.widget/Library.png">
+  <img src="folder-launcher.widget/Icons/Library.png">
 </li>
 <br>
 <li class="button" id="Documents">
-  <img src="launchers.widgets/folder-launcher.widget/Documents.png">
+  <img src="folder-launcher.widget/Icons/Documents.png">
 </li>
 <br>
 <li class="button" id="Pictures">
-  <img src="launchers.widgets/folder-launcher.widget/Pictures.png">
+  <img src="folder-launcher.widget/Icons/Pictures.png">
 </li>
 <br>
 <li class="button" id="Movies">
-  <img src="launchers.widgets/folder-launcher.widget/Movies.png">
+  <img src="folder-launcher.widget/Icons/Movies.png">
 </li>
 <br>
 <li class="button" id="Music">
-  <img src="launchers.widgets/folder-launcher.widget/Music.png">
+  <img src="folder-launcher.widget/Icons/Music.png">
 </li>
 """
 
